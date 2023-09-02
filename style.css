@@ -97,3 +97,9 @@ button:hover{
   margin: 12px 0;
   font-size: 14px;
 }
+.copyright{
+  ext-align:center;
+  color:black;
+  font-family: 'Source Code Pro', monospace;
+  text-transform:uppercase;
+}
