@@ -33,8 +33,7 @@ to {background-position: -100px 0px;background-size:2750px;}
 
 }
 
-.center
-{
+.center{
   display: flex;
   align-items: center;
   justify-content: center;
@@ -49,7 +48,6 @@ to {background-position: -100px 0px;background-size:2750px;}
 }
 
 .container{
-  display: flex;
   align-items: center;
   justify-content: center;
   position: absolute;
