@@ -64,7 +64,7 @@ to {background-position: -100px 0px;background-size:2750px;}
   max-width: 80%;
   margin: 0 auto;
   padding: 20px;
-  background: #fff;
+  background: transparent;
   border-radius: 7px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.3);
 }
