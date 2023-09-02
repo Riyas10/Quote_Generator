@@ -98,8 +98,10 @@ button:hover{
   font-size: 14px;
 }
 .copyright{
-  ext-align:center;
+  margin-top: 0;
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align:center;
   color:black;
   font-family: 'Source Code Pro', monospace;
-  text-transform:uppercase;
 }
