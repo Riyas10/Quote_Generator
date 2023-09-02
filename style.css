@@ -70,6 +70,15 @@ h1{
   text-transform:uppercase;
 }
 
+h4{
+  margin-top: 0;
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align:center;
+  color:black;
+  font-family: 'Sans-serif';
+}
+
 button{
   padding: 7px 10px;
   font-size: 12px;
@@ -96,12 +105,4 @@ button:hover{
   cursor: pointer;
   margin: 12px 0;
   font-size: 14px;
-}
-.copyright{
-  margin-top: 0;
-  font-size: 20px;
-  margin-bottom: 10px;
-  text-align:center;
-  color:black;
-  font-family: 'Source Code Pro', monospace;
 }
