@@ -47,12 +47,6 @@ to {background-position: -100px 0px;background-size:2750px;}
   background: rgba(75, 75, 250, 0.3);
   border-radius: 3px;
 }
-.center h1{
-  text-align:center;
-  color:black;
-  font-family: 'Source Code Pro', monospace;
-  text-transform:uppercase;
-}
 
 .container{
   display: flex;
@@ -72,6 +66,10 @@ h1{
   margin-top: 0;
   font-size: 20px;
   margin-bottom: 10px;
+  text-align:center;
+  color:black;
+  font-family: 'Source Code Pro', monospace;
+  text-transform:uppercase;
 }
 
 button{
